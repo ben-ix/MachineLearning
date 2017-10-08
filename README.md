@@ -5,4 +5,4 @@ Playing with various ML algorithms
 - Expectation Maximization w/ Mixture Model
 
 ### Graphical Models
-- Gibbs Sampling w/ Bayes Net
+- [Gibbs Sampling in Bayesian Networks](Gibbs.ipynb)
